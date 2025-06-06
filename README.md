@@ -5,7 +5,7 @@
 
 ---
 
-## 🔸準備物
+## 🔸準備する物
 
 - ローブ（白または金系／位階に応じて調整可）  
 - 魔法円（フラフープ円＋LEDキャンドル）  
@@ -19,7 +19,7 @@
 
 ---
 
-### Tarot
+### 🃏Tarot（タロットカード）
 
 <img src="wheel-of-the-year_4.jpg" width="300">
 
@@ -98,7 +98,7 @@ So may it be.
 
 ---
 
-### 使用例：Deviant Moon Tarot  
+### 🐌使用例：Deviant Moon Tarot  
 
 <img src="summer_solstice1.jpg" width="400">
 
