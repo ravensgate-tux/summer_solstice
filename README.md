@@ -96,6 +96,11 @@ So may it be.
 
 そうありますように。
 
+---
+
+### 使用例：Deviant Moon Tarot  
+
+<img src="summer_solistice1.jpg" width="400">
 
 ---
 
