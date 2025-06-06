@@ -100,7 +100,7 @@ So may it be.
 
 ### 使用例：Deviant Moon Tarot  
 
-<img src="summer_solistice1.jpg" width="400">
+<img src="summer_solstice1.jpg" width="400">
 
 ---
 
